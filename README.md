@@ -111,4 +111,4 @@
         - 미리 생성 시 APP 실행 시간이 늦어짐
     - 대기 시간 (Thread.Sleep) 필요
  
-  <br><hr>
+  <hr><br>
